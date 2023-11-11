@@ -4,3 +4,5 @@ bin-int/
 **.vcxproj
 **.filters
 **.user
+Makefile
+**.mk
